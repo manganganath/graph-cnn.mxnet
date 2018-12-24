@@ -1,3 +1,5 @@
+[Citation network](citation_network.png)
+
 MXNet implementation of Graph Convolutional Neural Networks detailed in [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907)
 
 
