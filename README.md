@@ -15,9 +15,8 @@ the author of the paper [Semi-Supervised Classification with Graph Convolutional
 - Numpy
 
 ## Usage
-```bash
-python train.py
-```
+
+- Run `node_classification_citation_network.ipynb`
 
 ## Notes/Observations:
 1. Unable to reproduce results from the paper with dropout of 0.5. Dropout=0 gives results similar to paper
