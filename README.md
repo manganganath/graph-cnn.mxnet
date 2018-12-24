@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/mxnet_logo_2.png"/>
-</p>
-
 MXNet implementation of Graph Convolutional Neural Networks detailed in [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907)
 
 
